@@ -3,3 +3,4 @@
 });
 System.import('src/app/app');
 System.import('src/app/login/login');
+System.import('src/app/login/model');
